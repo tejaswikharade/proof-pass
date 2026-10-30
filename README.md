@@ -1,5 +1,7 @@
 # ProofPass
 
+> **[Open the live demo →](https://tejaswikharade.github.io/proof-pass/)**
+
 An issuer-managed, on-chain registry for verifiable credentials. ProofPass records only a credential hash and verification state on-chain—never the underlying document.
 
 ## What it does
